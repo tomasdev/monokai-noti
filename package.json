@@ -1,0 +1,11 @@
+{
+  "name": "monokai-noti",
+  "version": "0.1.0",
+  "description": "Simple theme for Windows. \"Noti\" stands for \"No title\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomas Roggero <hola@tomasroggero.com>",
+  "license": "MIT"
+}
